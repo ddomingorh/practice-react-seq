@@ -2,8 +2,8 @@
 
 This app provides interfaces that let Confluence users:
 
-1. Input a teammate's nickname and a corresponding full name.
-2. Query a nickname by a matching full name. 
+1. Input a guest's email and a corresponding full name.
+2. Query an email by a partial matches. 
 
 Both interfaces are presented in separate tabs.
 
