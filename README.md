@@ -3,7 +3,7 @@
 This app provides interfaces that let Confluence users:
 
 1. Input a guest's email and a corresponding full name.
-2. Query an email by a partial matches. 
+2. Query an email by full or partial matches (for example, `sam` will match `samantha@example.com` and `sammy@example.com`. 
 
 Both interfaces are presented in separate tabs.
 
